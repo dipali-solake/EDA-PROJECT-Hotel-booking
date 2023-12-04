@@ -1,1 +1,1 @@
-# EDA-PROJECT-Hotel-booking
+# EDA-PROJECT-Hotel booking
